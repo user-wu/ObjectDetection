@@ -41,6 +41,17 @@
 
 # 训练验证 
 4_train.py
+配置文件：bowl.yaml
+```
+# Bowl
+path: ./data/ # dataset root dir
+train: /Users/wushuang/PycharmProjects/Detection/data/bowl/train.txt  # train images
+val: /Users/wushuang/PycharmProjects/Detection/data/bowl/val.txt # val images
+
+# Classes
+names:
+  0: Bowl
+```
 
 采用Yolov8实现 
 
