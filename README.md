@@ -59,6 +59,13 @@ names:
 
 采用Yolov8实现 
 
+查看训练过程：
+
+```
+终端切换到当前目录：tensorboard --logdir=runs/detection/train* # *代表当前训练
+查看链接：http://localhost:6006/
+```
+
 # 测试
 5_predict.py
 
