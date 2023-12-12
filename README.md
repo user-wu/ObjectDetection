@@ -42,7 +42,7 @@
 # 训练验证 
 4_train.py
 
-配置文件：bowl.yaml
+配置文件：[bowl.yaml](https://pan.baidu.com/s/1mYRg4IxCcgvAns7XmRihiA?pwd=pmm1)
 ```
 # Bowl
 path: ./data/ # dataset root dir
