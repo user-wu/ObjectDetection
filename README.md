@@ -59,6 +59,10 @@ names:
 
 采用Yolov8实现 
 
+<img width="800" alt="image" src="https://github.com/user-wu/ObjectDetection/assets/67259115/0690f79c-dd0a-4cb7-9004-56a2bc99e5e0">
+
+yolo运行起来检查是否读取到标签，若不成功检查格式转换的label目录和配置文件错误；
+
 查看训练过程：
 
 ```
