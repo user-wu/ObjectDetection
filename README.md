@@ -62,4 +62,4 @@ names:
 # 测试
 5_predict.py
 
-用训练好的模型测试相应图像进行性能评估
+用训练好的模型测试相应图像进行性能评估，[测试图像](https://pan.baidu.com/s/12hkWSMvyoZefjCmNEtc5TQ?pwd=z3ae)
