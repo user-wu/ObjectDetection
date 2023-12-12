@@ -7,6 +7,7 @@
 标注示例图：
  <img width="913" alt="image" src="https://github.com/user-wu/ObjectDetection/assets/67259115/92f05aed-477e-4d4a-9aa4-2ce486532bc7">
 * 得到标注数据目录格式：
+
 ```
 class1 |----------------------|
        |-annotations |-1.json | 
