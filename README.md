@@ -53,6 +53,7 @@ val: /data/bowl/val.txt # val images
 names:
   0: Bowl
 ```
+预训练模型：[pretrained_model](https://pan.baidu.com/s/1b90dUBONRNR4WtFrgYfeGw?pwd=ypd5)
 
 采用Yolov8实现 
 
