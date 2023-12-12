@@ -41,12 +41,13 @@
 
 # 训练验证 
 4_train.py
+
 配置文件：bowl.yaml
 ```
 # Bowl
 path: ./data/ # dataset root dir
-train: /Users/wushuang/PycharmProjects/Detection/data/bowl/train.txt  # train images
-val: /Users/wushuang/PycharmProjects/Detection/data/bowl/val.txt # val images
+train: /data/bowl/train.txt  # train images
+val: /data/bowl/val.txt # val images
 
 # Classes
 names:
