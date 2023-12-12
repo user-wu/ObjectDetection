@@ -10,6 +10,7 @@
 * 采用流行的标注软件进行标注得到标注文件，此例程采用Labelme软件标注，数据：[data](https://pan.baidu.com/s/13lTKHH1zui6ZCLI_B1YQYg?pwd=jsbe)
   
 标注示例图：
+
  <img width="500" alt="image" src="https://github.com/user-wu/ObjectDetection/assets/67259115/92f05aed-477e-4d4a-9aa4-2ce486532bc7">
  
 * 得到标注数据目录格式：
