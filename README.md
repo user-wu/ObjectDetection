@@ -57,7 +57,7 @@ names:
 ```
 预训练模型：[pretrained_model](https://pan.baidu.com/s/1b90dUBONRNR4WtFrgYfeGw?pwd=ypd5)
 
-采用Yolov8实现 
+采用Yolov8实现，Yolov8详细使用方式和参数设置参考[Yolov8官方教程](https://docs.ultralytics.com/)
 
 <img width="800" alt="image" src="https://github.com/user-wu/ObjectDetection/assets/67259115/0690f79c-dd0a-4cb7-9004-56a2bc99e5e0">
 
