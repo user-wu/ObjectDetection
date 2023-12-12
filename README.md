@@ -5,7 +5,7 @@
 * 首先从网络或自建数据集获取符合需求的目标检测任务的数据；
 * 采用流行的标注软件进行标注得到标注文件，此例程采用Labelme软件标注；
 标注示例图：
- <img width="913" alt="image" src="https://github.com/user-wu/ObjectDetection/assets/67259115/92f05aed-477e-4d4a-9aa4-2ce486532bc7">
+ <img width="400" alt="image" src="https://github.com/user-wu/ObjectDetection/assets/67259115/92f05aed-477e-4d4a-9aa4-2ce486532bc7">
 * 得到标注数据目录格式：
 
 ```
