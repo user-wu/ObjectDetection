@@ -8,12 +8,12 @@
 # 数据准备
 * 首先从网络或自建数据集获取符合需求的目标检测任务的数据；
 * 采用流行的标注软件进行标注得到标注文件，此例程采用Labelme软件标注，[标注参考数据](https://pan.baidu.com/s/13lTKHH1zui6ZCLI_B1YQYg?pwd=jsbe)；
-
+```
 To实习生：
 
 数据说明：
 作为例程，数据用于跑通代码进行测试，请在实现过程中采用自己标注的数据进行训练，用此244张图像作为验证评估数据。
-  
+```
 标注示例图：
 
  <img width="500" alt="image" src="https://github.com/user-wu/ObjectDetection/assets/67259115/92f05aed-477e-4d4a-9aa4-2ce486532bc7">
